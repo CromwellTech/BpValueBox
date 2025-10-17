@@ -1,0 +1,30 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "BpValueBox",
+  "Description": "System to safely box values of any type hooked in to Unreal's Reflection system",
+  "Category": "Other",
+  "CreatedBy": "Cromwell Technology, LLC",
+  "CreatedByURL": "https://github.com/CromwellTech/BpValueBox",
+  "DocsURL": "",
+  "MarketplaceURL": "",
+  "SupportURL": "",
+  "CanContainContent": true,
+  "IsBetaVersion": false,
+  "IsExperimentalVersion": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "BpValueBox",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ],
+  "Plugins": [
+    {
+      "Name": "StructUtils",
+      "Enabled": true
+    }
+  ]
+}
