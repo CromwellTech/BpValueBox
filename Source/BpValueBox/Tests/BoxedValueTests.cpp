@@ -1,5 +1,6 @@
 ﻿#include "Misc/AutomationTest.h"
 #include "BoxedValue.h"
+#include "BoxedValue_Generated.h"
 #include "TestObject.h"
 #include "ValueType.h"
 
